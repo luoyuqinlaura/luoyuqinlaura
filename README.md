@@ -14,5 +14,5 @@
 
 <h5 align = 'Center'>My procastination 🐍 eating my contribution</h5>
 <p align="center">
-  <img src="https://github.com/swaraj961/swaraj961/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="./assets/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
