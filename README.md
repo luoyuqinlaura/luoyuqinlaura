@@ -9,7 +9,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LauraLuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://yuqin-laura-luo-756a021a1/)](https://www.linkedin.com/in/yuqin-laura-luo-756a021a1/)  [![Gmail Badge](https://img.shields.io/badge/-lauraluo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luoyuqin1113@gmail.com)](mailto:luoyuqin1113@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LauraLuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://yuqin-laura-luo-756a021a1/)](https://www.linkedin.com/in/yuqin-laura-luo-756a021a1/)  [![Gmail Badge](https://img.shields.io/badge/-lauraluo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luoyuqin00@gmail.com)](mailto:luoyuqin00@gmail.com)
 
 
 <h5 align = 'Center'>My procastination 🐍 eating my contribution</h5>
